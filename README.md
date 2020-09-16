@@ -10,7 +10,7 @@ To run put:
 ```python
 python3 hw01.py
 ``` 
-The ouput is like this: 
+The ouput is like this:   
 ![code](ScreenShot.png)
 
 ## Useful Websites
